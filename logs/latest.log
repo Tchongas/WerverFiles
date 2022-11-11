@@ -1,0 +1,267 @@
+[13:32:07] [main/INFO]: Loading Minecraft 1.19.2 with Fabric Loader 0.14.10
+[13:32:07] [main/INFO]: Loading 62 mods:
+	- cardinal-components-base 5.0.0-beta.1 via fabrichomes
+	- cardinal-components-entity 5.0.0-beta.1 via fabrichomes
+	- com_fasterxml_jackson_core_jackson-annotations 2.12.4 via dedicatedmcupnp
+	- com_fasterxml_jackson_core_jackson-core 2.12.4 via dedicatedmcupnp
+	- com_fasterxml_jackson_core_jackson-databind 2.12.4 via dedicatedmcupnp
+	- com_fasterxml_jackson_dataformat_jackson-dataformat-yaml 2.12.4 via dedicatedmcupnp
+	- config2brigadier 1.2.1 via fabrictailor
+	- dedicatedmcupnp 1.2.1
+	- dynmap 3.4
+	- fabric-api 0.64.0+1.19.2
+	- fabric-api-base 0.4.12+93d8cb8290 via fabric-api
+	- fabric-api-lookup-api-v1 1.6.10+93d8cb8290 via fabric-api
+	- fabric-biome-api-v1 9.0.18+c6af733c90 via fabric-api
+	- fabric-command-api-v1 1.2.12+f71b366f90 via fabric-api
+	- fabric-command-api-v2 2.1.8+93d8cb8290 via fabric-api
+	- fabric-commands-v0 0.2.29+df3654b390 via fabric-api
+	- fabric-containers-v0 0.1.35+df3654b390 via fabric-api
+	- fabric-content-registries-v0 3.4.0+6064db2a90 via fabric-api
+	- fabric-convention-tags-v1 1.1.2+93d8cb8290 via fabric-api
+	- fabric-crash-report-info-v1 0.2.6+aeb40ebe90 via fabric-api
+	- fabric-data-generation-api-v1 5.2.2+b598f4ac90 via fabric-api
+	- fabric-dimensions-v1 2.1.32+0dd10df690 via fabric-api
+	- fabric-entity-events-v1 1.4.19+9ff28f4090 via fabric-api
+	- fabric-events-interaction-v0 0.4.29+c6af733c90 via fabric-api
+	- fabric-events-lifecycle-v0 0.2.29+df3654b390 via fabric-api
+	- fabric-game-rule-api-v1 1.0.22+c6af733c90 via fabric-api
+	- fabric-item-api-v1 1.5.8+93d8cb8290 via fabric-api
+	- fabric-item-groups-v0 0.3.32+70efcffe90 via fabric-api
+	- fabric-lifecycle-events-v1 2.2.0+33ffe9ec90 via fabric-api
+	- fabric-loot-api-v2 1.1.6+83a8659290 via fabric-api
+	- fabric-loot-tables-v1 1.1.9+9e7660c690 via fabric-api
+	- fabric-message-api-v1 5.0.4+93d8cb8290 via fabric-api
+	- fabric-mining-level-api-v1 2.1.17+33fbc73890 via fabric-api
+	- fabric-networking-api-v1 1.2.5+c6af733c90 via fabric-api
+	- fabric-networking-v0 0.3.22+df3654b390 via fabric-api
+	- fabric-object-builder-api-v1 4.0.14+93d8cb8290 via fabric-api
+	- fabric-particles-v1 1.0.11+79adfe0a90 via fabric-api
+	- fabric-permissions-api-v0 0.1-SNAPSHOT via fabrictailor
+	- fabric-registry-sync-v0 0.9.26+c6af733c90 via fabric-api
+	- fabric-rendering-data-attachment-v1 0.3.15+aeb40ebe90 via fabric-api
+	- fabric-rendering-fluids-v1 3.0.8+c6af733c90 via fabric-api
+	- fabric-resource-conditions-api-v1 2.1.0+aae9039d90 via fabric-api
+	- fabric-resource-loader-v0 0.7.2+70efcffe90 via fabric-api
+	- fabric-screen-handler-api-v1 1.3.1+1cc24b1b90 via fabric-api
+	- fabric-tpa 3.2.1
+	- fabric-transfer-api-v1 2.1.1+93d8cb8290 via fabric-api
+	- fabric-transitive-access-wideners-v1 1.3.1+42d99c3290 via fabric-api
+	- fabrication 3.1.3+1.19
+	- fabrichomes 2.3.0
+	- fabricloader 0.14.10
+	- fabrictailor 2.0.1
+	- flan 1.19-1.8.1.1
+	- image2map 0.3.0
+	- invview 1.4.9-1.19+
+	- java 17
+	- map-canvas-api 0.2.0+1.19.1 via image2map
+	- minecraft 1.19.2
+	- more_codecs 0.2.2+1.18 via player_roles
+	- org_yaml_snakeyaml 1.29 via dedicatedmcupnp
+	- player_roles 1.6.1
+	- player_roles_api 1.6.1 via player_roles
+	- sgui 1.1.5+1.19.1 via image2map
+[13:32:07] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=file:/C:/Users/apeti/OneDrive/Área%20de%20Trabalho/Server/libraries/net/fabricmc/sponge-mixin/0.11.4+mixin.0.8.5/sponge-mixin-0.11.4+mixin.0.8.5.jar Service=Knot/Fabric Env=SERVER
+[13:32:07] [main/INFO]: Compatibility level set to JAVA_17
+[13:32:08] [main/INFO]: [Fabrication] Reloading configs...
+[13:32:08] [main/INFO]: [Fabrication] Loading of features.ini done in 35.65 ms with 0 warnings
+[13:32:08] [main/WARN]: Error loading class: net/minecraft/class_634 (java.lang.ClassNotFoundException: net/minecraft/class_634)
+[13:32:08] [main/WARN]: @Mixin target net.minecraft.class_634 was not found fabrication.mixins.json:_general.fapi.MixinClientPlayNetworkHandler from mod fabrication
+[13:32:08] [main/WARN]: Error loading class: net/minecraft/class_746 (java.lang.ClassNotFoundException: net/minecraft/class_746)
+[13:32:08] [main/WARN]: @Mixin target net.minecraft.class_746 was not found fabrication.mixins.json:_general.fapi.MixinClientPlayerEntity from mod fabrication
+[13:32:08] [main/WARN]: Error loading class: net/minecraft/class_315 (java.lang.ClassNotFoundException: net/minecraft/class_315)
+[13:32:08] [main/WARN]: @Mixin target net.minecraft.class_315 was not found fabrication.mixins.json:_general.fapi.MixinGameOptions from mod fabrication
+[13:32:08] [main/WARN]: Error loading class: net/minecraft/class_329 (java.lang.ClassNotFoundException: net/minecraft/class_329)
+[13:32:08] [main/WARN]: @Mixin target net.minecraft.class_329 was not found fabrication.mixins.json:_general.fapi.MixinInGameHud from mod fabrication
+[13:32:08] [main/WARN]: Error loading class: net/minecraft/class_338 (java.lang.ClassNotFoundException: net/minecraft/class_338)
+[13:32:08] [main/WARN]: @Mixin target net.minecraft.class_338 was not found fabrication.mixins.json:b_utility.chat_markdown.MixinChatHud from mod fabrication
+[13:32:08] [main/WARN]: Error loading class: net/minecraft/class_4717$class_464 (java.lang.ClassNotFoundException: net/minecraft/class_4717$class_464)
+[13:32:08] [main/WARN]: @Mixin target net.minecraft.class_4717$class_464 was not found fabrication.mixins.json:b_utility.enter_selects_highlighted_suggestion.AccessorSuggestionWindow from mod fabrication
+[13:32:16] [main/INFO]: Building unoptimized datafixer
+[13:32:20] [main/INFO]: Loaded C2B lib.
+[13:32:21] [main/INFO]: [Dynmap] Mod Support API available
+[13:32:21] [main/INFO]: Initializing...
+[13:32:21] [main/FATAL]: Failed to parse the config!
+[13:32:21] [main/INFO]: [STDERR]: java.lang.NumberFormatException: For input string: "null"
+[13:32:21] [main/INFO]: [STDERR]: 	at java.base/java.lang.NumberFormatException.forInputString(NumberFormatException.java:67)
+[13:32:21] [main/INFO]: [STDERR]: 	at java.base/java.lang.Integer.parseInt(Integer.java:668)
+[13:32:21] [main/INFO]: [STDERR]: 	at java.base/java.lang.Integer.parseInt(Integer.java:786)
+[13:32:21] [main/INFO]: [STDERR]: 	at eu.codedsakura.mods.ConfigUtils$IntegerConfigValue.getFromProps(ConfigUtils.java:137)
+[13:32:21] [main/INFO]: [STDERR]: 	at eu.codedsakura.mods.ConfigUtils$IntegerConfigValue.getFromProps(ConfigUtils.java:119)
+[13:32:21] [main/INFO]: [STDERR]: 	at eu.codedsakura.mods.ConfigUtils.lambda$read$0(ConfigUtils.java:42)
+[13:32:21] [main/INFO]: [STDERR]: 	at java.base/java.util.Arrays$ArrayList.forEach(Arrays.java:4204)
+[13:32:21] [main/INFO]: [STDERR]: 	at eu.codedsakura.mods.ConfigUtils.read(ConfigUtils.java:42)
+[13:32:21] [main/INFO]: [STDERR]: 	at eu.codedsakura.mods.ConfigUtils.<init>(ConfigUtils.java:33)
+[13:32:21] [main/INFO]: [STDERR]: 	at eu.codedsakura.fabrictpa.FabricTPA.onInitialize(FabricTPA.java:104)
+[13:32:21] [main/INFO]: [STDERR]: 	at net.fabricmc.loader.impl.entrypoint.EntrypointUtils.invoke0(EntrypointUtils.java:47)
+[13:32:21] [main/INFO]: [STDERR]: 	at net.fabricmc.loader.impl.entrypoint.EntrypointUtils.invoke(EntrypointUtils.java:35)
+[13:32:21] [main/INFO]: [STDERR]: 	at net.fabricmc.loader.impl.game.minecraft.Hooks.startServer(Hooks.java:62)
+[13:32:21] [main/INFO]: [STDERR]: 	at net.minecraft.server.Main.main(Main.java:101)
+[13:32:21] [main/INFO]: [STDERR]: 	at net.fabricmc.loader.impl.game.minecraft.MinecraftGameProvider.launch(MinecraftGameProvider.java:461)
+[13:32:21] [main/INFO]: [STDERR]: 	at net.fabricmc.loader.impl.launch.knot.Knot.launch(Knot.java:74)
+[13:32:21] [main/INFO]: [STDERR]: 	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23)
+[13:32:21] [main/INFO]: [STDERR]: 	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69)
+[13:32:21] [main/INFO]: [STDERR]: 	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69)
+[13:32:21] [main/INFO]: [Fabrication] Loading of dimensional_tools.ini done in 7.071 ms with 0 warnings
+[13:32:21] [main/INFO]: [Fabrication] Loading of gear_components.ini done in 21.77 ms with 0 warnings
+[13:32:21] [main/INFO]: [Fabrication] Loading of item_despawn.ini done in 522.4 ?s with 0 warnings
+[13:32:21] [main/INFO]: [Fabrication] Loading of taggable_players.ini done in 3.701 ms with 0 warnings
+[13:32:21] [main/INFO]: [Fabrication] Loading of yeet_recipes.ini done in 265.9 ?s with 0 warnings
+[13:32:21] [main/INFO]: Initializing...
+[13:32:21] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[13:32:22] [main/WARN]: Fabric NioResourcePack: ignored invalid namespace: FabricTPA in mod ID fabric-tpa
+[13:32:22] [main/WARN]: Fabric NioResourcePack: ignored invalid namespace: FabricHomes in mod ID fabrichomes
+[13:32:22] [main/WARN]: Fabric NioResourcePack: ignored invalid namespace: FabricTPA in mod ID fabric-tpa
+[13:32:22] [main/WARN]: Fabric NioResourcePack: ignored invalid namespace: FabricHomes in mod ID fabrichomes
+[13:32:24] [main/INFO]: [Dynmap] Register commands
+[13:32:25] [main/INFO]: Loaded 7 recipes
+[13:32:26] [main/INFO]: Loaded 1179 advancements
+[13:32:27] [main/INFO]: Applied 0 biome modifications to 0 of 63 new biomes in 4.853 ms
+[13:32:27] [Server thread/INFO]: [Dynmap] Added 20 custom biome mappings
+[13:32:27] [Server thread/INFO]: [Dynmap] Using fabric-permissions-api for access control
+[13:32:27] [Server thread/INFO]: Starting minecraft server version 1.19.2
+[13:32:27] [Server thread/INFO]: Loading properties
+[13:32:27] [Server thread/INFO]: Default game type: CREATIVE
+[13:32:27] [Server thread/INFO]: Generating keypair
+[13:32:27] [Server thread/INFO]: Starting Minecraft server on *:25565
+[13:32:27] [Server thread/INFO]: Using default channel type
+[13:32:28] [Server thread/INFO]: Preparing level "world"
+[13:32:28] [Server thread/INFO]: [Dynmap] Extracted files upgraded
+[13:32:28] [Server thread/INFO]: [Dynmap] Mod Support processing completed
+[13:32:31] [Server thread/INFO]: [Dynmap] Loaded 27 shaders.
+[13:32:31] [Server thread/INFO]: [Dynmap] Loaded 83 perspectives.
+[13:32:31] [Server thread/INFO]: [Dynmap] Loaded 22 lightings.
+[13:32:31] [Server thread/INFO]: [Dynmap] Starting enter/exit processing
+[13:32:32] [Dynmap Render Thread/INFO]: [Dynmap] Finish marker initialization
+[13:32:32] [Server thread/INFO]: [Dynmap] Web server started on address 0.0.0.0:8123
+[13:32:32] [Server thread/INFO]: [Dynmap] version 3.4 is enabled - core version 3.4-828
+[13:32:32] [Server thread/INFO]: [Dynmap] For support, visit our Discord at https://discord.gg/s3rd5qn
+[13:32:32] [Server thread/INFO]: [Dynmap] For news, visit https://reddit.com/r/Dynmap or follow https://twitter.com/Dynmap
+[13:32:32] [Server thread/INFO]: [Dynmap] To report or track bugs, visit https://github.com/webbukkit/dynmap/issues
+[13:32:32] [Server thread/INFO]: [Dynmap] If you'd like to donate, please visit https://www.patreon.com/dynmap or https://ko-fi.com/michaelprimm
+[13:32:32] [Server thread/INFO]: [Dynmap] Register events
+[13:32:32] [Server thread/INFO]: [Dynmap] Enabled
+[13:32:32] [Server thread/INFO]: [Fabrication] Loading of features.ini done in 8.295 ms with 0 warnings
+[13:33:04] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[13:33:05] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[13:33:05] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[13:33:05] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[13:33:06] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[13:33:06] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[13:33:07] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[13:33:07] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[13:33:08] [Worker-Main-4/INFO]: Preparing spawn area: 1%
+[13:33:08] [Worker-Main-1/INFO]: Preparing spawn area: 1%
+[13:33:09] [Worker-Main-7/INFO]: Preparing spawn area: 2%
+[13:33:09] [Worker-Main-7/INFO]: Preparing spawn area: 3%
+[13:33:10] [Worker-Main-3/INFO]: Preparing spawn area: 4%
+[13:33:10] [Worker-Main-6/INFO]: Preparing spawn area: 5%
+[13:33:11] [Worker-Main-3/INFO]: Preparing spawn area: 5%
+[13:33:11] [Worker-Main-6/INFO]: Preparing spawn area: 6%
+[13:33:12] [Worker-Main-3/INFO]: Preparing spawn area: 8%
+[13:33:12] [Worker-Main-7/INFO]: Preparing spawn area: 10%
+[13:33:13] [Worker-Main-2/INFO]: Preparing spawn area: 10%
+[13:33:13] [Worker-Main-6/INFO]: Preparing spawn area: 11%
+[13:33:14] [Worker-Main-6/INFO]: Preparing spawn area: 11%
+[13:33:14] [Worker-Main-2/INFO]: Preparing spawn area: 13%
+[13:33:15] [Worker-Main-4/INFO]: Preparing spawn area: 14%
+[13:33:15] [Worker-Main-5/INFO]: Preparing spawn area: 15%
+[13:33:16] [Worker-Main-4/INFO]: Preparing spawn area: 16%
+[13:33:16] [Worker-Main-4/INFO]: Preparing spawn area: 16%
+[13:33:17] [Worker-Main-2/INFO]: Preparing spawn area: 17%
+[13:33:17] [Worker-Main-7/INFO]: Preparing spawn area: 19%
+[13:33:18] [Worker-Main-7/INFO]: Preparing spawn area: 21%
+[13:33:18] [Worker-Main-3/INFO]: Preparing spawn area: 22%
+[13:33:19] [Worker-Main-7/INFO]: Preparing spawn area: 23%
+[13:33:19] [Worker-Main-5/INFO]: Preparing spawn area: 24%
+[13:33:20] [Worker-Main-6/INFO]: Preparing spawn area: 25%
+[13:33:20] [Worker-Main-5/INFO]: Preparing spawn area: 26%
+[13:33:21] [Worker-Main-5/INFO]: Preparing spawn area: 26%
+[13:33:21] [Worker-Main-2/INFO]: Preparing spawn area: 28%
+[13:33:22] [Worker-Main-2/INFO]: Preparing spawn area: 29%
+[13:33:22] [Worker-Main-4/INFO]: Preparing spawn area: 31%
+[13:33:23] [Worker-Main-3/INFO]: Preparing spawn area: 32%
+[13:33:23] [Worker-Main-1/INFO]: Preparing spawn area: 33%
+[13:33:24] [Worker-Main-1/INFO]: Preparing spawn area: 34%
+[13:33:24] [Worker-Main-2/INFO]: Preparing spawn area: 35%
+[13:33:25] [Worker-Main-4/INFO]: Preparing spawn area: 36%
+[13:33:25] [Worker-Main-2/INFO]: Preparing spawn area: 38%
+[13:33:26] [Worker-Main-2/INFO]: Preparing spawn area: 39%
+[13:33:26] [Worker-Main-6/INFO]: Preparing spawn area: 40%
+[13:33:27] [Worker-Main-3/INFO]: Preparing spawn area: 42%
+[13:33:27] [Worker-Main-7/INFO]: Preparing spawn area: 43%
+[13:33:28] [Worker-Main-5/INFO]: Preparing spawn area: 44%
+[13:33:28] [Worker-Main-5/INFO]: Preparing spawn area: 45%
+[13:33:29] [Worker-Main-3/INFO]: Preparing spawn area: 46%
+[13:33:29] [Worker-Main-4/INFO]: Preparing spawn area: 47%
+[13:33:30] [Worker-Main-5/INFO]: Preparing spawn area: 48%
+[13:33:30] [Worker-Main-3/INFO]: Preparing spawn area: 49%
+[13:33:31] [Worker-Main-1/INFO]: Preparing spawn area: 51%
+[13:33:31] [Worker-Main-2/INFO]: Preparing spawn area: 52%
+[13:33:32] [Worker-Main-2/INFO]: Preparing spawn area: 54%
+[13:33:32] [Worker-Main-7/INFO]: Preparing spawn area: 55%
+[13:33:33] [Worker-Main-2/INFO]: Preparing spawn area: 56%
+[13:33:33] [Worker-Main-4/INFO]: Preparing spawn area: 57%
+[13:33:34] [Worker-Main-7/INFO]: Preparing spawn area: 58%
+[13:33:34] [Worker-Main-4/INFO]: Preparing spawn area: 60%
+[13:33:35] [Worker-Main-6/INFO]: Preparing spawn area: 60%
+[13:33:35] [Worker-Main-6/INFO]: Preparing spawn area: 62%
+[13:33:36] [Worker-Main-3/INFO]: Preparing spawn area: 63%
+[13:33:36] [Worker-Main-6/INFO]: Preparing spawn area: 64%
+[13:33:37] [Worker-Main-2/INFO]: Preparing spawn area: 66%
+[13:33:37] [Worker-Main-2/INFO]: Preparing spawn area: 68%
+[13:33:38] [Worker-Main-7/INFO]: Preparing spawn area: 68%
+[13:33:38] [Worker-Main-2/INFO]: Preparing spawn area: 69%
+[13:33:39] [Worker-Main-3/INFO]: Preparing spawn area: 70%
+[13:33:39] [Worker-Main-3/INFO]: Preparing spawn area: 71%
+[13:33:40] [Worker-Main-5/INFO]: Preparing spawn area: 72%
+[13:33:40] [Worker-Main-4/INFO]: Preparing spawn area: 72%
+[13:33:41] [Worker-Main-4/INFO]: Preparing spawn area: 74%
+[13:33:41] [Worker-Main-2/INFO]: Preparing spawn area: 75%
+[13:33:42] [Worker-Main-5/INFO]: Preparing spawn area: 77%
+[13:33:42] [Worker-Main-7/INFO]: Preparing spawn area: 78%
+[13:33:43] [Worker-Main-5/INFO]: Preparing spawn area: 80%
+[13:33:43] [Worker-Main-6/INFO]: Preparing spawn area: 81%
+[13:33:44] [Worker-Main-7/INFO]: Preparing spawn area: 83%
+[13:33:44] [Worker-Main-5/INFO]: Preparing spawn area: 83%
+[13:33:45] [Worker-Main-6/INFO]: Preparing spawn area: 84%
+[13:33:45] [Worker-Main-1/INFO]: Preparing spawn area: 86%
+[13:33:46] [Worker-Main-1/INFO]: Preparing spawn area: 87%
+[13:33:46] [Worker-Main-2/INFO]: Preparing spawn area: 87%
+[13:33:47] [Worker-Main-7/INFO]: Preparing spawn area: 89%
+[13:33:47] [Worker-Main-4/INFO]: Preparing spawn area: 90%
+[13:33:48] [Worker-Main-6/INFO]: Preparing spawn area: 92%
+[13:33:48] [Worker-Main-6/INFO]: Preparing spawn area: 93%
+[13:33:49] [Worker-Main-5/INFO]: Preparing spawn area: 94%
+[13:33:49] [Worker-Main-7/INFO]: Preparing spawn area: 96%
+[13:33:50] [Worker-Main-5/INFO]: Preparing spawn area: 97%
+[13:33:50] [Worker-Main-3/INFO]: Preparing spawn area: 99%
+[13:33:50] [Server thread/INFO]: Time elapsed: 46178 ms
+[13:33:50] [Server thread/INFO]: Done (82.416s)! For help, type "help"
+[13:33:50] [Server thread/INFO]: [STDOUT]: Attempting UPnP port forwarding...
+[13:33:53] [Server thread/INFO]: [STDOUT]: UPnP is not available
+[13:33:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3295ms or 65 ticks behind
+[13:33:54] [Server thread/INFO]: UPnP is not available on this network.
+[13:33:54] [Server thread/INFO]: [Dynmap] Loaded 3 maps of world 'world'.
+[13:33:54] [Server thread/INFO]: [Dynmap] Loaded 2 maps of world 'DIM1'.
+[13:33:54] [Server thread/INFO]: [Dynmap] Loaded 2 maps of world 'DIM-1'.
+[13:34:56] [Dynmap Render Thread/INFO]: [Dynmap] Loading default resource pack
+[13:35:11] [Server thread/INFO]: UPnP is not available on this network.
+[13:35:49] [Server thread/INFO]: UPnP is not available on this network.
+[13:36:09] [Server thread/INFO]: Stopping the server
+[13:36:09] [Server thread/INFO]: [STDOUT]: Closing UPnP ports...
+[13:36:09] [Server thread/INFO]: [Dynmap] Unloaded 11 components.
+[13:36:09] [Server thread/INFO]: [Dynmap] Stopping map renderer...
+[13:36:09] [Server thread/INFO]: [Dynmap] Saved 120 pending tile renders in world 'world'
+[13:36:09] [Server thread/INFO]: [Dynmap] Disabled
+[13:36:09] [Server thread/INFO]: Stopping server
+[13:36:09] [Server thread/INFO]: Saving players
+[13:36:09] [Server thread/INFO]: Saving worlds
+[13:36:10] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[13:36:11] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[13:36:11] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[13:36:11] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[13:36:11] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[13:36:11] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[13:36:11] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
